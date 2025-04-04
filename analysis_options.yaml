@@ -1,0 +1,9 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - avoid_print: true
+    - avoid_empty_else: true
+    - prefer_const_constructors: true
+    - unnecessary_const: true
+    - unnecessary_this: true
